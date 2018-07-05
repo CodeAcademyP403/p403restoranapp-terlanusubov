@@ -1,0 +1,14 @@
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\obj\Debug\Restoran_Full_App.csprojAssemblyReference.cache
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\obj\Debug\Restoran_Full_App.Admin.resources
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\obj\Debug\Restoran_Full_App.Entry.resources
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\obj\Debug\Restoran_Full_App.Moderator.resources
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\obj\Debug\Restoran_Full_App.Properties.Resources.resources
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\obj\Debug\Restoran_Full_App.Registiration.resources
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\obj\Debug\Restoran_Full_App.csproj.GenerateResource.cache
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\obj\Debug\Restoran_Full_App.csproj.CoreCompileInputs.cache
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\bin\Debug\Restoran_Full_App.exe.config
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\bin\Debug\Restoran_Full_App.exe
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\bin\Debug\Restoran_Full_App.pdb
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\obj\Debug\Restoran_Full_App.exe
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\obj\Debug\Restoran_Full_App.pdb
+C:\Users\media\source\repos\Restoran_Full_App\Restoran_Full_App\obj\Debug\Restoran_Full_App.Ofisiant.resources
